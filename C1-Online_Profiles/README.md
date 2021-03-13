@@ -5,12 +5,15 @@ For this assignment you will need to upload your resume and provide links to you
 [Online Profiles Assignment](https://education.launchcode.org/liftoff/modules/assignments/online-profiles)
 
 ## Submission Instructions
+For the resume portion of this assignment, read through and refer to Update to Resume Assignment to complete it. After completing the resume, share it (with edit rights) with your mentor and me at clark@launchcode.org.
  
 ### GitHub
 Provide a link to your GitHub account here.
+https://github.com/rkmcodes
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+www.linkedin.com/in/rkmcodes
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
